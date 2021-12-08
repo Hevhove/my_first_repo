@@ -1,2 +1,2 @@
 add a new line
-it's windy outside today
+it's cloudy outside today
